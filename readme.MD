@@ -1,4 +1,4 @@
-![alt text](./images/sid_outline.png "Logo Title Text 1")
+![alt text](./images/sid.png "SID")
 
 # SAAB SID
 Repository to collect and share all known details of SAAB 9-3NG SID.
