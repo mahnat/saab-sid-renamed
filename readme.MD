@@ -15,3 +15,6 @@ SID stands for "SAAB Information Display". It is an display which shows various 
 - 1-40000lux range ambient light sensor (photo diode) with light conductor to front side of SID
 - alarm diode to indicate alarm state/mode
 - 12-pin connector
+
+# Protocol
+Communication protocol is documented in [protocol.md](protocol.md) file.
